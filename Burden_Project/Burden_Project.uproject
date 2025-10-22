@@ -18,6 +18,10 @@
 		{
 			"Name": "ActorPalette",
 			"Enabled": true
+		},
+		{
+			"Name": "WidgetEditorToolPalette",
+			"Enabled": true
 		}
 	]
 }
